@@ -156,6 +156,7 @@ section {
     overflow: hidden;
     border-radius: 50%;
     margin-bottom: 20px;
+    border:1px solid rgba(0, 0, 0, 0.15)
 }
 
 .banner .imgBx img {
